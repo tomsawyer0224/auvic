@@ -11,7 +11,7 @@ cd auvic
 ```
 conda env create -f environment.yml
 ```
-3. Run the following command to convert videos from 'source directory' and save them into 'target directory'
+3. Run the following command to convert videos from 'source directory' and save them into 'target directory'.
 ```
 python convert.py -s <source directory> -t <target directory>
 ```
