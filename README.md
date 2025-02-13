@@ -7,9 +7,10 @@ auvic (audio vidio converter) converts audio in a video to mp3 format.
 git clone https://github.com/tomsawyer0224/auvic.git
 cd auvic
 ```
-2. Run bellow command to create conda environment.
+2. Run bellow command to create and activate conda environment.
 ```
 conda env create -f environment.yml
+conda activate auvic
 ```
 3. Run the following command to convert videos from 'source directory' and save them into 'target directory'.
 ```
