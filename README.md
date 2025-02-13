@@ -1,5 +1,5 @@
 # About
-auvic (audio vidio converter) converts audio in a video to mp3 format.
+auvic (audio video converter) converts audio (included in video) to mp3 format.
 # How to use
 0. This project needs conda (or mamba) to run.
 1. Clone this project.
